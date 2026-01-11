@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project name="maven-antrun-" default="main">
-  <target name="main">
-    <mkdir dir="/root/null-folia/BunBridge/velocity/../target" />
-    <copy file="/root/null-folia/BunBridge/velocity/target/bunbridge-velocity-1.0.0.jar" tofile="/root/null-folia/BunBridge/velocity/../target/bunbridge-velocity-1.0.0.jar" />
-  </target>
-</project>
