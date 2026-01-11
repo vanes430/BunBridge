@@ -68,5 +68,5 @@ mvn clean install
 ---
 
 <div align="center">
-Made with 🥟 for the modern Minecraft Admin
+Made by vanes430
 </div>
