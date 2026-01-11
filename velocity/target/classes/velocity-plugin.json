@@ -1,0 +1,10 @@
+{
+  "id": "bunbridge",
+  "name": "BunBridge",
+  "version": "1.0.0",
+  "description": "A bridge plugin for Bun runtime on Velocity",
+  "authors": [
+    "vanes430"
+  ],
+  "main": "github.vanes430.bunbridge.velocity.BunBridgeVelocity"
+}
